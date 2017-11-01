@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/niketgoel/Desktop/WaagiProjects/Assignment81_ListView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f670e144901fe6647a4ac11a23472a95fd48782">
+        <dex dex="/Users/niketgoel/Desktop/WaagiProjects/Assignment81_ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f304c2c459e5ace8669f15f81dcbc533d4bf152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niketgoel/Desktop/WaagiProjects/Assignment81_ListView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/niketgoel/Desktop/WaagiProjects/Assignment81_ListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a22e1f680ab625fe5a7c0b7f887e67b4ee6d918/classes.dex" />
+    </item>
+
+</items>
